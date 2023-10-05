@@ -1,15 +1,15 @@
 Hi 👋 My name is Alan Vital
 ===========================
 
-Full Stack Developer
+Software Engineer
 ---------------------------------------------------------------------
 
-I've been learning to code for 3 years, after join at Universidade Federal do Ceará, Brazil, where I could meet people who encouraged and motivated me to always keep looking my best.
+I've been learning to code for 4 years, after join at Universidade Federal do Ceará, Brazil, where I could meet people who encouraged and motivated me to always keep looking my best.
 
 * 🌍  I'm based in Fortaleza, Brazil.
 * ✉️  You can contact me at [alanvital18@gmail.com](mailto:alanvital18@gmail.com)
-* 🚀  I'm currently working on [Instituto Atlântico.](http://www.atlantico.com.br/)
-* 🧠  I'm learning Web Development.
+* 🚀  I'm currently working on [Instituto Atlântico.](http://www.atlantico.com.br/) in projects dedicated do Hewlett-Packard (HP).
+* 🧠  I've been focused on learning more about Design Patterns and code quality to deliver more value to the projects that i've been developing.
 * ⚡  I'm a huge fan of J. R. R. Tolkien works.
 
 ### Skills
