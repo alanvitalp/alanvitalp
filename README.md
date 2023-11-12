@@ -8,7 +8,7 @@ I've been learning to code for 4 years, after join at Universidade Federal do Ce
 
 * 🌍  I'm based in Fortaleza, Brazil.
 * ✉️  You can contact me at [alanvital18@gmail.com](mailto:alanvital18@gmail.com)
-* 🚀  I'm currently working for [Instituto Atlântico.](http://www.atlantico.com.br/) in projects dedicated do Hewlett-Packard (HP).
+* 🚀  I'm currently working for [Instituto Atlântico.](http://www.atlantico.com.br/) in projects dedicated to Hewlett-Packard (HP).
 * 🧠  I've been focused on learning more about Design Patterns and code quality to deliver more value to the projects that i've been developing.
 * ⚡  I'm a huge fan of J. R. R. Tolkien works.
 
